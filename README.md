@@ -1,83 +1,25 @@
-# 🔐 SOC Incident Response Article
+# 🔐 Authentication in Cybersecurity
 
-This repository contains an educational article explaining **Incident Response in a Security Operations Center (SOC)**.  
-It describes how cybersecurity teams detect, analyze, and respond to security incidents to protect organizational systems and data.
+This repository contains an article explaining **Authentication in Cybersecurity**, including authentication factors, multi-factor authentication (MFA), and the importance of authentication in protecting systems from unauthorized access.
 
----
-
-## 📖 About the Article
-
-A **Security Operations Center (SOC)** is responsible for monitoring systems and networks to detect cyber threats.  
-One of the most critical responsibilities of a SOC team is **Incident Response**, which involves identifying, containing, and recovering from security incidents.
-
-This article explains the **Incident Response Lifecycle** and how SOC teams manage cyber threats efficiently.
+The article is written as part of the **CompTIA Cybersecurity Analyst+ (CySA+) – Authentication** learning module.
 
 ---
 
-## 📄 Read the Full Article
+## 📄 Article Overview
 
-You can read the complete article here:
+Authentication is a fundamental security mechanism used to verify the identity of users, devices, or systems before granting access to resources.
 
-➡️ **[Incident Response in a Security Operations Center](article.md)**
+This article explains:
 
----
+- What authentication is
+- Different authentication factors
+- Multi-Factor Authentication (MFA)
+- Importance of authentication in cybersecurity
+- Best practices for secure authentication
 
-## 📊 Diagrams Included
-
-The article includes visual diagrams to better understand SOC operations:
-
-- **Security Operations Center Workflow**
-- **Incident Response Lifecycle**
-
-These diagrams help explain how security monitoring and incident handling processes work.
+The goal of this project is to provide a **clear and simple explanation of authentication concepts used in modern cybersecurity systems**.
 
 ---
 
-## 🛠 Topics Covered
-
-- Security Operations Center (SOC)
-- Incident Response
-- Cyber Attack Detection
-- SOC Monitoring Process
-- Incident Response Lifecycle
-- Security Tools (SIEM, IDS, EDR)
-- Cybersecurity Best Practices
-
----
-
-## 📂 Project Structure
-
-```
-soc-incident-response-article
-│
-├── README.md
-├── article.md
-└── images
-    ├── soc_workflow.png
-    └── incident_response_lifecycle.png
-```
-
----
-
-## 🎯 Purpose
-
-The goal of this repository is to:
-
-- Explain **SOC incident response concepts**
-- Provide a **simple educational reference**
-- Demonstrate **documentation skills using Markdown and GitHub**
-
----
-
-## 👨‍💻 Author
-
-**Siddharth Arwade**
-
-Course: *Security Operations Center – Tools & Techniques*  
-Platform: *Infosys Springboard*
-
----
-
-## 📌 Note
-
-This project is created for **learning and educational purposes** related to cybersecurity and SOC operations.
+## 📂 Repository Structure
