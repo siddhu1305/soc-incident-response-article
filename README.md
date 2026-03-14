@@ -1,45 +1,72 @@
+# 🔐 Authentication in Cybersecurity
 
-- **README.md** – Overview of the project  
-- **article.md** – Full article explaining authentication concepts  
-- **images/** – Diagrams used in the article
-
----
-
-## 🖼 Diagrams Included
-
-The article includes the following diagrams:
-
-1. **Authentication Factors Diagram**
-   - Explains the three authentication factors:
-   - Something you know
-   - Something you have
-   - Something you are
-
-2. **Multi-Factor Authentication Workflow**
-   - Shows how MFA verifies users using multiple authentication steps.
+This repository contains an educational article explaining **Authentication in Cybersecurity**.  
+It describes how authentication mechanisms verify user identities and protect systems from unauthorized access.
 
 ---
 
-## 🎯 Learning Objectives
+## 📖 About the Article
 
-After reading this article, readers will understand:
+Authentication is one of the most important concepts in cybersecurity. It ensures that **only legitimate users, devices, or systems are allowed to access protected resources**.
 
-- The role of authentication in cybersecurity
-- Different authentication methods
-- How Multi-Factor Authentication improves security
-- Why strong authentication mechanisms are important for organizations
+Organizations use authentication methods such as **passwords, biometrics, tokens, and Multi-Factor Authentication (MFA)** to secure systems and sensitive information.
+
+This article explains **authentication factors, authentication methods, and Multi-Factor Authentication (MFA)** used in modern cybersecurity environments.
 
 ---
 
-## 🛡 Importance of Authentication
+## 📄 Read the Full Article
 
-Authentication helps organizations:
+You can read the complete article here:
 
-- Prevent unauthorized access
-- Protect sensitive data
-- Strengthen cybersecurity systems
-- Improve accountability
-- Reduce cyberattack risks
+➡️ **[Authentication in Cybersecurity](article.md)**
+
+---
+
+## 📊 Diagrams Included
+
+The article includes visual diagrams to better understand authentication processes:
+
+- **Authentication Factors Diagram**
+- **Multi-Factor Authentication Workflow**
+
+These diagrams help explain how identity verification works in secure systems.
+
+---
+
+## 🛠 Topics Covered
+
+- Authentication in Cybersecurity
+- Authentication Factors
+- Password-Based Authentication
+- Biometric Authentication
+- Multi-Factor Authentication (MFA)
+- Authentication Workflow
+- Authentication Best Practices
+
+---
+
+## 📂 Project Structure
+
+```
+authentication-article
+│
+├── README.md
+├── article.md
+└── images
+    ├── authentication_factors.png
+    └── mfa_workflow.png
+```
+
+---
+
+## 🎯 Purpose
+
+The goal of this repository is to:
+
+- Explain **authentication concepts in cybersecurity**
+- Provide a **simple educational reference**
+- Demonstrate **documentation skills using Markdown and GitHub**
 
 ---
 
@@ -52,8 +79,6 @@ Platform: *Infosys Springboard*
 
 ---
 
-## 📚 References
+## 📌 Note
 
-- CompTIA CySA+ Learning Materials
-- Cybersecurity Authentication Concepts
-- Security Best Practices Documentation
+This project is created for **learning and educational purposes** related to cybersecurity and authentication mechanisms.
