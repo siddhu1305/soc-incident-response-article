@@ -14,7 +14,7 @@ A good incident response process helps organizations **reduce damage, recover fa
 
 ## Security Operations Center Workflow
 
-![SOC Workflow](images/soc workflow.png)
+![SOC Workflow](images/soc_workflow.png)
 
 *Figure 1: Security Operations Center workflow showing monitoring, detection, analysis, and response to security threats.*
 
